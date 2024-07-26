@@ -4,6 +4,10 @@ Given a video clip of a falling object, the goal of this task is to generate the
 
 ## Usage
 
+#### Data Preparation
+
+The dataset used to train the baseline models can be downloaded from [here](https://www.dropbox.com/scl/fo/47qndde7nor697p91k476/AIEnJAcOKCvOyVMmak2Mkcc?rlkey=6tc7x396hk7f8zb89c22dkl9k&st=4rt4uzhn&dl=0)
+
 #### Training & Evaluation
 
 Start the training process, and test the best model on test-set after training:
